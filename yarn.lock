@@ -3195,8 +3195,8 @@
   "version" "5.2.1"
 
 "safe-decode-uri-component@^1.2.1":
-  "integrity" "sha1-3dMMV+Z5ejsGcYiDk6SYS0VOISk="
-  "resolved" "https://registry.nlark.com/safe-decode-uri-component/download/safe-decode-uri-component-1.2.1.tgz"
+  "integrity" "sha512-j0PKk0v8qPOD0goqRAvoI7GKy+HwLHXEpXaQlA1IqJ65jjiILRK1InlfNdIKUUUYuLtERADaJumgYKNfyQBO+w=="
+  "resolved" "https://registry.npmjs.org/safe-decode-uri-component/-/safe-decode-uri-component-1.2.1.tgz"
   "version" "1.2.1"
 
 "safer-buffer@>= 2.1.2 < 3":
