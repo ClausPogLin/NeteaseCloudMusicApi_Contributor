@@ -1,4 +1,8 @@
-# 网易云音乐 API
+# 网易云音乐 API 贡献者API支持
+
+> [!NOTE]
+> Ori : yanranxiaoxi/NeteaseCloudMusicApi(forked from Binaryify/NeteaseCloudMusicApi)
+> 本Fork是基于[yanranxiaoxi/NeteaseCloudMusicApi](https://github.com/yanranxiaoxi/NeteaseCloudMusicApi)的复刻,添加了对贡献相关的API支持
 
 网易云音乐 Node.js API service
 
